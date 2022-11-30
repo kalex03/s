@@ -1,3 +1,3 @@
-Status = Active
-FileCode_1: Active, 1
-FileCode_2: Active, 1
+Status = 1
+FileCode_1: 1, v1
+FileCode_2: 1, v2
